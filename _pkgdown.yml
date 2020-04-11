@@ -53,6 +53,7 @@ reference:
     - ACF1
     - winkler_score
     - percentile_score
+    - cross_validation
 - title: Methods
   desc: >
     The fabletools package facilitates the handling of key structures for these generics.
